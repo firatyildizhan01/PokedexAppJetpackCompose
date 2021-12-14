@@ -3,7 +3,7 @@
 
 ## API
 
-* https://newsapi.org
+https://pokeapi.co/
 
 ## Techs
 * Kotlin
